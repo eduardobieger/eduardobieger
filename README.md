@@ -8,6 +8,9 @@ Currently, I work mainly with Node.js and Python, but I have interest in other l
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobieger&layout=compact&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Contact
 - Email: eduardo42bieger@gmail.com 
 - LinkedIn: [eduardobieger](https://www.linkedin.com/in/eduardo-bieger/)
