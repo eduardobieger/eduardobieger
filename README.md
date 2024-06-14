@@ -11,20 +11,20 @@ Currently, I work mainly with Node.js and Python, but I have interest in other t
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 December 2023 - To: 12 June 2024
+From: 28 December 2023 - To: 13 June 2024
 
-Total Time: 707 hrs 19 mins
+Total Time: 715 hrs 31 mins
 
-JavaScript     429 hrs 21 mins >>>>>>>>>>>>>>>----------   60.21 %
-TypeScript     107 hrs 31 mins >>>>---------------------   15.08 %
-Python         47 hrs 51 mins  >>-----------------------   06.71 %
-JSON           21 hrs 22 mins  >------------------------   03.00 %
-Bash           18 hrs 32 mins  >------------------------   02.60 %
-HTML           15 hrs 2 mins   >------------------------   02.11 %
-SQL            13 hrs 18 mins  -------------------------   01.87 %
-Lua            10 hrs 15 mins  -------------------------   01.44 %
-Markdown       7 hrs 45 mins   -------------------------   01.09 %
-YAML           6 hrs 10 mins   -------------------------   00.87 %
+JavaScript     432 hrs 56 mins >>>>>>>>>>>>>>>----------   60.00 %
+TypeScript     109 hrs 51 mins >>>>---------------------   15.22 %
+Python         47 hrs 51 mins  >>-----------------------   06.63 %
+JSON           21 hrs 48 mins  >------------------------   03.02 %
+Bash           19 hrs 2 mins   >------------------------   02.64 %
+HTML           15 hrs 2 mins   >------------------------   02.08 %
+SQL            13 hrs 50 mins  -------------------------   01.92 %
+Lua            10 hrs 26 mins  -------------------------   01.45 %
+Markdown       7 hrs 47 mins   -------------------------   01.08 %
+YAML           6 hrs 10 mins   -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
