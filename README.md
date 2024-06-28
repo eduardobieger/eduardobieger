@@ -10,7 +10,7 @@ Currently, I work mainly with Node.js and Python, but I have interest in other t
 
 <!--START_SECTION:waka-->
 
-```javascript
+```txt, python, ruby, json, html, css, javascript
 From: 29 May 2024 - To: 28 June 2024
 
 Total Time: 159 hrs 27 mins
