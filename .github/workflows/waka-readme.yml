@@ -22,7 +22,7 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: go
+          CODE_LANG: python
           TIME_RANGE: last_30_days
           LANG_COUNT: 7
           SHOW_TIME: true
