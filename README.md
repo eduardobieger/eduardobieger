@@ -15,10 +15,10 @@ From: 29 May 2024 - To: 28 June 2024
 
 Total Time: 159 hrs 27 mins
 
-TypeScript        93 hrs 58 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.94 %
-JavaScript        18 hrs 13 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.04 %
-SQL               10 hrs 43 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.50 %
-Other             5 hrs 33 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.37 %
+TypeScript        93 hrs 58 mins  ⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤◔○○○○○○○○○○   56.94 %
+JavaScript        18 hrs 13 mins  ⬤⬤◕○○○○○○○○○○○○○○○○○○○○○○   11.04 %
+SQL               10 hrs 43 mins  ⬤◕○○○○○○○○○○○○○○○○○○○○○○○   06.50 %
+Other             5 hrs 33 mins   ◕○○○○○○○○○○○○○○○○○○○○○○○○   03.37 %
 ```
 
 <!--END_SECTION:waka-->
