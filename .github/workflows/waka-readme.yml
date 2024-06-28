@@ -24,7 +24,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: rust
           TIME_RANGE: last_30_days
-          LANG_COUNT: 5
+          LANG_COUNT: 7
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
