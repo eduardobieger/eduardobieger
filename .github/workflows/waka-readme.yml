@@ -24,11 +24,11 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: python
           TIME_RANGE: last_30_days
-          LANG_COUNT: 7
+          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
