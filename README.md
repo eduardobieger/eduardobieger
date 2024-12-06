@@ -1,38 +1,50 @@
-# Welcome to my GitHub profile 👋
+# Eduardo Bieger | Full Stack Developer 🚀
 
-## About Me
-I'm a technology enthusiast who loves cyberpunk aesthetics and building software.
+## 👨‍💻 Professional Profile
 
-Currently, I work primarily with **Node.js** and **Go**, building back-end solutions for scalable applications. I’m also interested in exploring how Go can enhance performance in microservices and high-load environments.
+Passionate full-stack developer specializing in building scalable, high-performance web applications. With a strong background in modern web technologies, I transform complex challenges into elegant software solutions.
 
-## Technologies & Tools
-I enjoy working with a diverse tech stack to bring ideas to life:
+## 🔧 Technical Expertise
 
-- **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="30"/> 
-- **Frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30"/>
-- **Databases:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" height="30"/>
-- **Editors & Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" height="30"/>
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Current Focus
-I'm currently diving deeper into **Go** for back-end development, exploring its concurrency model and performance optimizations.
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-## Languages I Use the Most
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobieger&layout=compact&theme=radical)
+## 📊 Coding Stats
 
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobieger&layout=compact&theme=tokyonight)
+
+### Detailed Coding Time
 <!--START_SECTION:waka-->
-
-```python
-From: 05 November 2024 - To: 05 December 2024
-
-Total Time: 104 hrs 14 mins
-
-TypeScript    56 hrs 48 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.72 %
-Go            25 hrs 44 mins  ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.89 %
-JavaScript    3 hrs 24 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.16 %
+```text
+TypeScript    56 hrs 48 mins  ████████████████░░░░░░░░░   52.72%
+Go            25 hrs 44 mins  ███████░░░░░░░░░░░░░░░░░░   23.89%
+JavaScript    3 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.16%
 ```
-
 <!--END_SECTION:waka-->
 
-## Contact
-- Email: eduardo42bieger@gmail.com 
-- LinkedIn: [eduardobieger](https://www.linkedin.com/in/eduardo-bieger/)
+## 🚀 Professional Focus
+
+Currently diving deep into **Go** development, focusing on:
+- Leveraging Go's concurrency model for high-performance microservices
+- Implementing efficient backend architectures
+- Exploring advanced performance optimization techniques
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bieger/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo42bieger@gmail.com)
+
+---
+
+*Transforming ideas into robust, scalable software solutions* 💻
