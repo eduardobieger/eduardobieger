@@ -1,6 +1,6 @@
 # Eduardo Bieger | Full Stack Developer 🚀
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 About Me
 
 Passionate full-stack developer specializing in building scalable, high-performance web applications. With a strong background in modern web technologies, I transform complex challenges into elegant software solutions.
 
