@@ -28,13 +28,13 @@ Passionate full-stack developer specializing in building scalable, high-performa
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 January 2025 - To: 11 February 2025
+From: 13 January 2025 - To: 12 February 2025
 
-Total Time: 113 hrs 46 mins
+Total Time: 118 hrs 15 mins
 
-TypeScript        82 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.43 %
-Go                13 hrs 19 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.22 %
-JavaScript        2 hrs 18 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.94 %
+TypeScript        83 hrs 36 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.64 %
+Go                14 hrs 3 mins   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.38 %
+JavaScript        2 hrs 18 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 %
 ```
 
 <!--END_SECTION:waka-->
